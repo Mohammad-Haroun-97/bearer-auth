@@ -10,6 +10,9 @@ db.sync().then(() => {
 
     // Start the web server
     app.start();
+  }).catch((e)=>{
+    console.log(e.messege||e);
+
   });
 
 // 'use strict';
