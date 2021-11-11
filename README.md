@@ -7,7 +7,7 @@ you can see sign in and sign up routes by using postman or thunder( because they
 * ![](giphy_360.gif)
 
 * [Test Report Link ](https://github.com/Mohammad-Haroun-97/api-server/actions)
-* [Pull request Link ](https://github.com/Mohammad-Haroun-97/bearer-auth/pull/2)
+* [Pull request Link ](https://github.com/Mohammad-Haroun-97/bearer-auth/pull/5)
 # Setup
 * .env requirements
 * PORT - Port Number
